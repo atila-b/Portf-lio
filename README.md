@@ -1,8 +1,8 @@
 # Portfólio
-Links para repositórios de projetos e implementações
+Links to project and implementation repositories
 
-- Projetos Data Science (Python): https://drive.google.com/drive/folders/1JP1z8JJ-sKx7HqoqYsEjYhG4vXvvfSBC?usp=sharing
-- Projeto da disciplina de Grafos (Python): https://github.com/atila-b/PCV
-- Projeto da disciplina de Processamento de Imagens (Python): https://github.com/atila-b/detect-objects
-- Projeto da disciplina de Inteligência Artificial (Java): https://github.com/atila-b/AIproject
-- Implementação de algoritmos (Python): https://github.com/atila-b/Algoritmos-Python 
+- Data science projects (Python): https://drive.google.com/drive/folders/1JP1z8JJ-sKx7HqoqYsEjYhG4vXvvfSBC?usp=sharing
+- Graph subject project (Python): https://github.com/atila-b/PCV
+- Image processing subject project (Python): https://github.com/atila-b/detect-objects
+- Artificial intelligence subject project (Java): https://github.com/atila-b/AIproject
+- Implementation of algorithms (Python): https://github.com/atila-b/Algoritmos-Python 
