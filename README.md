@@ -1,4 +1,4 @@
-# Portfólio
+# Portfolio
 Links to project and implementation repositories
 
 ## Personal projects
