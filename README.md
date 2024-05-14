@@ -2,7 +2,7 @@
 Links to project and implementation repositories
 
 ## Personal projects
-- **Data Science projects (Python):** https://github.com/atila-b/data-science-projects
+- **Machine Learning projects (Python):** https://github.com/atila-b/data-science-projects
 ## Academic projects
 - **Graphs - Traveling Salesman Problem (Python):** https://github.com/atila-b/TSP
 - **Image Processing - Object Detection (Python):** https://github.com/atila-b/detect-objects
